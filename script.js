@@ -97,4 +97,32 @@ function scrollActive() {
   })
 }
 
-window.addEventListener('scroll', scrollActive)
+document.getElementById('downloadBtn').addEventListener('click', function () {
+    var link = document.createElement('a');
+    link.href = '/img/cv.png';
+    link.download = 'cv.png';
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+});
+
+document.getElementById('downloadBtnAbout').addEventListener('click', function () {
+    var link = document.createElement('a');
+    link.href = '/img/cv.png';
+    link.download = 'cv.png';
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+});
+
+document.getElementById('downloadBtnFeatured').addEventListener('click', function () {
+    var link = document.createElement('a');
+    link.href = '/img/cv.png';
+    link.download = 'cv.png';
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+});
