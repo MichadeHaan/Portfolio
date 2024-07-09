@@ -1,6 +1,6 @@
-# [Micha] Portfolio
+# Micha Portfolio
 
-Welkom op mijn portfolio! Dit is een overzicht van mijn werk en vaardigheden als [software developer]. Hier kun je mijn projecten bekijken en meer te weten komen over mijn achtergrond.
+Welkom op mijn portfolio! Dit is een overzicht van mijn werk en vaardigheden als software developer. Hier kun je mijn projecten bekijken en meer te weten komen over mijn achtergrond.
 
 ## Inhoudsopgave
 
@@ -27,13 +27,13 @@ mijn passie is coderen en game. de drijft naar dit vakgebied is dat ik een game 
 
 - **Programmeertalen:** Bijvoorbeeld: Python, JavaScript, HTML, CSS, PHP, C#, C++, MySQL.
 - **Frameworks en bibliotheken:** Bijvoorbeeld: bootstrap.
-- **Andere vaardigheden:** Bijvoorbeeld: Git, UX/UI-design, etc.
+- **Andere vaardigheden:** Bijvoorbeeld: Git.
 
 ## Opleiding
 
 - **[software developer op het bit-academy]**
   - *Periode:* Startdatum - 2023
-  - *Graad:* Bijvoorbeeld: mbo 4 software developer
+  - *Graad:* mbo 4 software developer
 
 ## Contact
 
